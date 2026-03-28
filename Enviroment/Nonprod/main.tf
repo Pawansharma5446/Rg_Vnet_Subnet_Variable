@@ -13,3 +13,4 @@ module "vnet" {
     subnet_name = var.subnet_name
     subnet_address_prefixes = var.subnet_address_prefixes
 }
+
